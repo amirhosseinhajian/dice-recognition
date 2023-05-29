@@ -1,4 +1,4 @@
-# Image Processing Projects
+# Dice recognition
 Dice recognition using image processing and opencv with python. This project does not use machine learning.
 
 ## Results
